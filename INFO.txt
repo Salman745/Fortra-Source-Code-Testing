@@ -1,0 +1,106 @@
+Project: Mini Expense Tracker
+One-liner: Parses simple transaction records and outputs totals by category (and a monthly summary) to help spot spending patterns.
+Popularity order: TIOBE Index (February 2026) top 50; 2 files per language = 100 files.
+Generated: 2026-02-25T04:35:35.837842Z
+
+File -> Language
+01_python_part1.py -> Python
+01_python_part2.py -> Python
+02_c_part1.c -> C
+02_c_part2.c -> C
+03_c_part1.cpp -> C++
+03_c_part2.cpp -> C++
+04_java_part1.java -> Java
+04_java_part2.java -> Java
+05_c_part1.cs -> C#
+05_c_part2.cs -> C#
+06_javascript_part1.js -> JavaScript
+06_javascript_part2.js -> JavaScript
+07_visual_basic_part1.vb -> Visual Basic
+07_visual_basic_part2.vb -> Visual Basic
+08_r_part1.r -> R
+08_r_part2.r -> R
+09_sql_part1.sql -> SQL
+09_sql_part2.sql -> SQL
+10_delphi_object_pascal_part1.pas -> Delphi/Object Pascal
+10_delphi_object_pascal_part2.pas -> Delphi/Object Pascal
+11_perl_part1.pl -> Perl
+11_perl_part2.pl -> Perl
+12_fortran_part1.f90 -> Fortran
+12_fortran_part2.f90 -> Fortran
+13_php_part1.php -> PHP
+13_php_part2.php -> PHP
+14_rust_part1.rs -> Rust
+14_rust_part2.rs -> Rust
+15_scratch_part1.sb3 -> Scratch
+15_scratch_part2.sb3 -> Scratch
+16_go_part1.go -> Go
+16_go_part2.go -> Go
+17_ada_part1.adb -> Ada
+17_ada_part2.ads -> Ada
+18_matlab_part1.m -> MATLAB
+18_matlab_part2.m -> MATLAB
+19_assembly_language_part1.asm -> Assembly language
+19_assembly_language_part2.asm -> Assembly language
+20_kotlin_part1.kt -> Kotlin
+20_kotlin_part2.kt -> Kotlin
+21_swift_part1.swift -> Swift
+21_swift_part2.swift -> Swift
+22_cobol_part1.cbl -> COBOL
+22_cobol_part2.cbl -> COBOL
+23_classic_visual_basic_part1.bas -> Classic Visual Basic
+23_classic_visual_basic_part2.bas -> Classic Visual Basic
+24_prolog_part1.pro -> Prolog
+24_prolog_part2.pro -> Prolog
+25_ruby_part1.rb -> Ruby
+25_ruby_part2.rb -> Ruby
+26_dart_part1.dart -> Dart
+26_dart_part2.dart -> Dart
+27_lua_part1.lua -> Lua
+27_lua_part2.lua -> Lua
+28_sas_part1.sas -> SAS
+28_sas_part2.sas -> SAS
+29_julia_part1.jl -> Julia
+29_julia_part2.jl -> Julia
+30_lisp_part1.lisp -> Lisp
+30_lisp_part2.lisp -> Lisp
+31_objective_c_part1.m -> Objective-C
+31_objective_c_part2.m -> Objective-C
+32_typescript_part1.ts -> TypeScript
+32_typescript_part2.ts -> TypeScript
+33_pl_sql_part1.pls -> PL/SQL
+33_pl_sql_part2.pls -> PL/SQL
+34_vbscript_part1.vbs -> VBScript
+34_vbscript_part2.vbs -> VBScript
+35_haskell_part1.hs -> Haskell
+35_haskell_part2.hs -> Haskell
+36_erlang_part1.erl -> Erlang
+36_erlang_part2.erl -> Erlang
+37_ladder_logic_part1.ld -> Ladder Logic
+37_ladder_logic_part2.ld -> Ladder Logic
+38_visual_foxpro_part1.prg -> (Visual) FoxPro
+38_visual_foxpro_part2.prg -> (Visual) FoxPro
+39_scala_part1.scala -> Scala
+39_scala_part2.scala -> Scala
+40_labview_part1.vi -> LabVIEW
+40_labview_part2.vi -> LabVIEW
+41_powershell_part1.ps1 -> PowerShell
+41_powershell_part2.ps1 -> PowerShell
+42_transact_sql_part1.tsql -> Transact-SQL
+42_transact_sql_part2.tsql -> Transact-SQL
+43_x_part1.xpp -> X++
+43_x_part2.xpp -> X++
+44_abap_part1.abap -> ABAP
+44_abap_part2.abap -> ABAP
+45_elixir_part1.ex -> Elixir
+45_elixir_part2.ex -> Elixir
+46_zig_part1.zig -> Zig
+46_zig_part2.zig -> Zig
+47_actionscript_part1.as -> ActionScript
+47_actionscript_part2.as -> ActionScript
+48_d_part1.d -> D
+48_d_part2.d -> D
+49_logo_part1.logo -> Logo
+49_logo_part2.logo -> Logo
+50_pl_i_part1.pli -> PL/I
+50_pl_i_part2.pli -> PL/I
