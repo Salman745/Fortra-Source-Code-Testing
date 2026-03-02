@@ -1,0 +1,1056 @@
+  File: ./.git/config
+  Size: 318       	Blocks: 4          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 1688849860450397  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:14:01.448751800 +0500
+Modify: 2026-03-02 15:11:46.701831700 +0500
+Change: 2026-03-02 15:11:46.701831700 +0500
+ Birth: 2026-03-02 15:11:44.384070000 +0500
+  File: ./.git/description
+  Size: 73        	Blocks: 1          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 3940649674134250  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:46.774894000 +0500
+Modify: 2026-03-02 15:11:44.364768600 +0500
+Change: 2026-03-02 15:11:44.364768600 +0500
+ Birth: 2026-03-02 15:11:44.364768600 +0500
+  File: ./.git/HEAD
+  Size: 21        	Blocks: 1          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 1688849860450698  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:14:01.476280400 +0500
+Modify: 2026-03-02 15:11:46.701831700 +0500
+Change: 2026-03-02 15:11:46.701831700 +0500
+ Birth: 2026-03-02 15:11:46.701831700 +0500
+  File: ./.git/hooks/applypatch-msg.sample
+  Size: 478       	Blocks: 4          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 1688849860449109  Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:46.891287100 +0500
+Modify: 2026-03-02 15:11:44.366774300 +0500
+Change: 2026-03-02 15:11:44.366774300 +0500
+ Birth: 2026-03-02 15:11:44.366774300 +0500
+  File: ./.git/hooks/commit-msg.sample
+  Size: 896       	Blocks: 4          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 3377699720713748  Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:47.009559000 +0500
+Modify: 2026-03-02 15:11:44.368780300 +0500
+Change: 2026-03-02 15:11:44.368780300 +0500
+ Birth: 2026-03-02 15:11:44.366774300 +0500
+  File: ./.git/hooks/fsmonitor-watchman.sample
+  Size: 4726      	Blocks: 8          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 2533274790582107  Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:47.145856500 +0500
+Modify: 2026-03-02 15:11:44.368780300 +0500
+Change: 2026-03-02 15:11:44.368780300 +0500
+ Birth: 2026-03-02 15:11:44.368780300 +0500
+  File: ./.git/hooks/post-update.sample
+  Size: 189       	Blocks: 1          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 3377699720714118  Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:47.255797500 +0500
+Modify: 2026-03-02 15:11:44.368780300 +0500
+Change: 2026-03-02 15:11:44.368780300 +0500
+ Birth: 2026-03-02 15:11:44.368780300 +0500
+  File: ./.git/hooks/pre-applypatch.sample
+  Size: 424       	Blocks: 4          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 1407374883739557  Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:47.382944600 +0500
+Modify: 2026-03-02 15:11:44.368780300 +0500
+Change: 2026-03-02 15:11:44.368780300 +0500
+ Birth: 2026-03-02 15:11:44.368780300 +0500
+  File: ./.git/hooks/pre-commit.sample
+  Size: 1649      	Blocks: 4          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 3659174697424816  Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:47.491411200 +0500
+Modify: 2026-03-02 15:11:44.368780300 +0500
+Change: 2026-03-02 15:11:44.368780300 +0500
+ Birth: 2026-03-02 15:11:44.368780300 +0500
+  File: ./.git/hooks/pre-merge-commit.sample
+  Size: 416       	Blocks: 4          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 4785074604267445  Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:47.596629800 +0500
+Modify: 2026-03-02 15:11:44.368780300 +0500
+Change: 2026-03-02 15:11:44.368780300 +0500
+ Birth: 2026-03-02 15:11:44.368780300 +0500
+  File: ./.git/hooks/pre-push.sample
+  Size: 1374      	Blocks: 4          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 1407374883739587  Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:47.719321100 +0500
+Modify: 2026-03-02 15:11:44.368780300 +0500
+Change: 2026-03-02 15:11:44.368780300 +0500
+ Birth: 2026-03-02 15:11:44.368780300 +0500
+  File: ./.git/hooks/pre-rebase.sample
+  Size: 4898      	Blocks: 8          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 2814749767292880  Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:47.818624700 +0500
+Modify: 2026-03-02 15:11:44.368780300 +0500
+Change: 2026-03-02 15:11:44.368780300 +0500
+ Birth: 2026-03-02 15:11:44.368780300 +0500
+  File: ./.git/hooks/pre-receive.sample
+  Size: 544       	Blocks: 4          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 1970324837160953  Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:47.908137300 +0500
+Modify: 2026-03-02 15:11:44.368780300 +0500
+Change: 2026-03-02 15:11:44.368780300 +0500
+ Birth: 2026-03-02 15:11:44.368780300 +0500
+  File: ./.git/hooks/prepare-commit-msg.sample
+  Size: 1492      	Blocks: 4          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 1688849860450298  Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:48.041145100 +0500
+Modify: 2026-03-02 15:11:44.382063700 +0500
+Change: 2026-03-02 15:11:44.382063700 +0500
+ Birth: 2026-03-02 15:11:44.380873800 +0500
+  File: ./.git/hooks/push-to-checkout.sample
+  Size: 2783      	Blocks: 4          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 1688849860450299  Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:48.189773300 +0500
+Modify: 2026-03-02 15:11:44.382063700 +0500
+Change: 2026-03-02 15:11:44.382063700 +0500
+ Birth: 2026-03-02 15:11:44.382063700 +0500
+  File: ./.git/hooks/sendemail-validate.sample
+  Size: 2308      	Blocks: 4          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 1688849860450304  Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:48.298358400 +0500
+Modify: 2026-03-02 15:11:44.384070000 +0500
+Change: 2026-03-02 15:11:44.384070000 +0500
+ Birth: 2026-03-02 15:11:44.384070000 +0500
+  File: ./.git/hooks/update.sample
+  Size: 3650      	Blocks: 4          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 1125899907028994  Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:48.442097400 +0500
+Modify: 2026-03-02 15:11:44.384070000 +0500
+Change: 2026-03-02 15:11:44.384070000 +0500
+ Birth: 2026-03-02 15:11:44.384070000 +0500
+  File: ./.git/index
+  Size: 8715      	Blocks: 12         IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 2814749767292979  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:48.585719500 +0500
+Modify: 2026-03-02 15:11:46.782960600 +0500
+Change: 2026-03-02 15:11:46.782960600 +0500
+ Birth: 2026-03-02 15:11:46.701831700 +0500
+  File: ./.git/info/exclude
+  Size: 240       	Blocks: 1          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 3096224744003594  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:48.666718800 +0500
+Modify: 2026-03-02 15:11:44.384070000 +0500
+Change: 2026-03-02 15:11:44.384070000 +0500
+ Birth: 2026-03-02 15:11:44.384070000 +0500
+  File: ./.git/logs/HEAD
+  Size: 212       	Blocks: 1          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 2251799813872063  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:48.802184600 +0500
+Modify: 2026-03-02 15:11:46.701831700 +0500
+Change: 2026-03-02 15:11:46.701831700 +0500
+ Birth: 2026-03-02 15:11:46.701831700 +0500
+  File: ./.git/logs/refs/heads/main
+  Size: 212       	Blocks: 1          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 2814749767293380  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:48.955043300 +0500
+Modify: 2026-03-02 15:11:46.701831700 +0500
+Change: 2026-03-02 15:11:46.701831700 +0500
+ Birth: 2026-03-02 15:11:46.701831700 +0500
+  File: ./.git/logs/refs/remotes/origin/HEAD
+  Size: 212       	Blocks: 1          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 1407374883740026  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:49.124425000 +0500
+Modify: 2026-03-02 15:11:46.696787200 +0500
+Change: 2026-03-02 15:11:46.696787200 +0500
+ Birth: 2026-03-02 15:11:46.695355900 +0500
+  File: ./.git/objects/pack/pack-7fe22462b71426d368f1cbe5f798d57c8854ed73.idx
+  Size: 3956      	Blocks: 4          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 844424930318431  Links: 1
+Access: (0444/-r--r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:14:01.172955800 +0500
+Modify: 2026-03-02 15:11:46.506954400 +0500
+Change: 2026-03-02 15:11:46.531564600 +0500
+ Birth: 2026-03-02 15:11:46.505727200 +0500
+  File: ./.git/objects/pack/pack-7fe22462b71426d368f1cbe5f798d57c8854ed73.pack
+  Size: 14174     	Blocks: 16         IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 2814749767293001  Links: 1
+Access: (0444/-r--r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:49.377840900 +0500
+Modify: 2026-03-02 15:11:46.504358000 +0500
+Change: 2026-03-02 15:11:46.531564600 +0500
+ Birth: 2026-03-02 15:11:46.278997400 +0500
+  File: ./.git/objects/pack/pack-7fe22462b71426d368f1cbe5f798d57c8854ed73.rev
+  Size: 464       	Blocks: 4          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 844424930318440  Links: 1
+Access: (0444/-r--r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:49.517460200 +0500
+Modify: 2026-03-02 15:11:46.512439800 +0500
+Change: 2026-03-02 15:11:46.531564600 +0500
+ Birth: 2026-03-02 15:11:46.512439800 +0500
+  File: ./.git/packed-refs
+  Size: 112       	Blocks: 1          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 844424930318445  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:14:01.172955800 +0500
+Modify: 2026-03-02 15:11:46.686004100 +0500
+Change: 2026-03-02 15:11:46.686004100 +0500
+ Birth: 2026-03-02 15:11:46.686004100 +0500
+  File: ./.git/refs/heads/main
+  Size: 41        	Blocks: 1          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 3659174697425331  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:14:01.172955800 +0500
+Modify: 2026-03-02 15:11:46.701831700 +0500
+Change: 2026-03-02 15:11:46.701831700 +0500
+ Birth: 2026-03-02 15:11:46.701831700 +0500
+  File: ./.git/refs/remotes/origin/HEAD
+  Size: 30        	Blocks: 1          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 14355223812429986  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:49.823454000 +0500
+Modify: 2026-03-02 15:11:46.689710200 +0500
+Change: 2026-03-02 15:11:46.696787200 +0500
+ Birth: 2026-03-02 15:11:46.689710200 +0500
+  File: ./01_python_part1.py
+  Size: 791       	Blocks: 4          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 1125899907029098  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:49.893285200 +0500
+Modify: 2026-03-02 15:11:46.717956200 +0500
+Change: 2026-03-02 15:11:46.745795600 +0500
+ Birth: 2026-03-02 15:11:46.717956200 +0500
+  File: ./01_python_part2.py
+  Size: 258       	Blocks: 1          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 2533274790582740  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:50.005908800 +0500
+Modify: 2026-03-02 15:11:46.719039700 +0500
+Change: 2026-03-02 15:11:46.745795600 +0500
+ Birth: 2026-03-02 15:11:46.717956200 +0500
+  File: ./02_c_part1.c
+  Size: 1552      	Blocks: 4          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 2251799813872178  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:50.121930400 +0500
+Modify: 2026-03-02 15:11:46.719039700 +0500
+Change: 2026-03-02 15:11:46.719039700 +0500
+ Birth: 2026-03-02 15:11:46.719039700 +0500
+  File: ./02_c_part2.c
+  Size: 253       	Blocks: 1          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 1688849860450895  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:50.242086100 +0500
+Modify: 2026-03-02 15:11:46.719039700 +0500
+Change: 2026-03-02 15:11:46.719039700 +0500
+ Birth: 2026-03-02 15:11:46.719039700 +0500
+  File: ./03_c_part1.cpp
+  Size: 1171      	Blocks: 4          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 1970324837161584  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:50.372804700 +0500
+Modify: 2026-03-02 15:11:46.721043200 +0500
+Change: 2026-03-02 15:11:46.721043200 +0500
+ Birth: 2026-03-02 15:11:46.719039700 +0500
+  File: ./03_c_part2.cpp
+  Size: 255       	Blocks: 1          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 1125899907029631  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:50.506711500 +0500
+Modify: 2026-03-02 15:11:46.721043200 +0500
+Change: 2026-03-02 15:11:46.721043200 +0500
+ Birth: 2026-03-02 15:11:46.721043200 +0500
+  File: ./04_java_part1.java
+  Size: 1090      	Blocks: 4          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 1125899907029634  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:50.630366500 +0500
+Modify: 2026-03-02 15:11:46.721043200 +0500
+Change: 2026-03-02 15:11:46.721043200 +0500
+ Birth: 2026-03-02 15:11:46.721043200 +0500
+  File: ./04_java_part2.java
+  Size: 256       	Blocks: 1          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 1125899907029635  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:50.735521300 +0500
+Modify: 2026-03-02 15:11:46.721043200 +0500
+Change: 2026-03-02 15:11:46.721043200 +0500
+ Birth: 2026-03-02 15:11:46.721043200 +0500
+  File: ./05_c_part1.cs
+  Size: 931       	Blocks: 4          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 1125899907029638  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:50.813087200 +0500
+Modify: 2026-03-02 15:11:46.723047100 +0500
+Change: 2026-03-02 15:11:46.723047100 +0500
+ Birth: 2026-03-02 15:11:46.723047100 +0500
+  File: ./05_c_part2.cs
+  Size: 254       	Blocks: 1          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 1125899907029639  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:50.905363000 +0500
+Modify: 2026-03-02 15:11:46.723047100 +0500
+Change: 2026-03-02 15:11:46.723047100 +0500
+ Birth: 2026-03-02 15:11:46.723047100 +0500
+  File: ./06_javascript_part1.js
+  Size: 798       	Blocks: 4          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 6192449487822011  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:50.953938700 +0500
+Modify: 2026-03-02 15:11:46.723047100 +0500
+Change: 2026-03-02 15:11:46.780955600 +0500
+ Birth: 2026-03-02 15:11:46.723047100 +0500
+  File: ./06_javascript_part2.js
+  Size: 262       	Blocks: 1          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 1407374883744137  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:51.043449900 +0500
+Modify: 2026-03-02 15:11:46.723047100 +0500
+Change: 2026-03-02 15:11:46.780955600 +0500
+ Birth: 2026-03-02 15:11:46.723047100 +0500
+  File: ./07_visual_basic_part1.vb
+  Size: 299       	Blocks: 4          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 4503599627578729  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:51.156257100 +0500
+Modify: 2026-03-02 15:11:46.725051000 +0500
+Change: 2026-03-02 15:11:46.780955600 +0500
+ Birth: 2026-03-02 15:11:46.725051000 +0500
+  File: ./07_visual_basic_part2.vb
+  Size: 264       	Blocks: 1          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 1688849860475557  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:51.275957900 +0500
+Modify: 2026-03-02 15:11:46.725051000 +0500
+Change: 2026-03-02 15:11:46.780955600 +0500
+ Birth: 2026-03-02 15:11:46.725051000 +0500
+  File: ./08_r_part1.r
+  Size: 288       	Blocks: 1          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 3377699720741117  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:51.390951200 +0500
+Modify: 2026-03-02 15:11:46.725051000 +0500
+Change: 2026-03-02 15:11:46.725051000 +0500
+ Birth: 2026-03-02 15:11:46.725051000 +0500
+  File: ./08_r_part2.r
+  Size: 253       	Blocks: 1          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 3096224744030492  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:51.490328000 +0500
+Modify: 2026-03-02 15:11:46.726565300 +0500
+Change: 2026-03-02 15:11:46.726565300 +0500
+ Birth: 2026-03-02 15:11:46.726565300 +0500
+  File: ./09_sql_part1.sql
+  Size: 450       	Blocks: 4          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 3377699720741151  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:51.598838300 +0500
+Modify: 2026-03-02 15:11:46.726565300 +0500
+Change: 2026-03-02 15:11:46.726565300 +0500
+ Birth: 2026-03-02 15:11:46.726565300 +0500
+  File: ./09_sql_part2.sql
+  Size: 265       	Blocks: 1          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 7036874417979737  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:51.702608600 +0500
+Modify: 2026-03-02 15:11:46.726565300 +0500
+Change: 2026-03-02 15:11:46.726565300 +0500
+ Birth: 2026-03-02 15:11:46.726565300 +0500
+  File: ./10_delphi_object_pascal_part1.pas
+  Size: 307       	Blocks: 4          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 3096224744046796  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:51.817342300 +0500
+Modify: 2026-03-02 15:11:46.726565300 +0500
+Change: 2026-03-02 15:11:46.726565300 +0500
+ Birth: 2026-03-02 15:11:46.726565300 +0500
+  File: ./10_delphi_object_pascal_part2.pas
+  Size: 272       	Blocks: 1          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 1688849860493589  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:51.921826900 +0500
+Modify: 2026-03-02 15:11:46.726565300 +0500
+Change: 2026-03-02 15:11:46.726565300 +0500
+ Birth: 2026-03-02 15:11:46.726565300 +0500
+  File: ./11_perl_part1.pl
+  Size: 291       	Blocks: 4          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 1688849860514799  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:52.034515300 +0500
+Modify: 2026-03-02 15:11:46.726565300 +0500
+Change: 2026-03-02 15:11:46.730596600 +0500
+ Birth: 2026-03-02 15:11:46.726565300 +0500
+  File: ./11_perl_part2.pl
+  Size: 256       	Blocks: 1          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 1970324837225459  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:52.135660100 +0500
+Modify: 2026-03-02 15:11:46.730596600 +0500
+Change: 2026-03-02 15:11:46.730596600 +0500
+ Birth: 2026-03-02 15:11:46.730596600 +0500
+  File: ./12_fortran_part1.f90
+  Size: 294       	Blocks: 4          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 2251799813936137  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:52.251008200 +0500
+Modify: 2026-03-02 15:11:46.730596600 +0500
+Change: 2026-03-02 15:11:46.732599500 +0500
+ Birth: 2026-03-02 15:11:46.730596600 +0500
+  File: ./12_fortran_part2.f90
+  Size: 259       	Blocks: 1          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 1970324837225648  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:52.340355400 +0500
+Modify: 2026-03-02 15:11:46.733606200 +0500
+Change: 2026-03-02 15:11:46.733606200 +0500
+ Birth: 2026-03-02 15:11:46.733606200 +0500
+  File: ./13_php_part1.php
+  Size: 294       	Blocks: 4          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 1688849860514999  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:52.444259800 +0500
+Modify: 2026-03-02 15:11:46.733606200 +0500
+Change: 2026-03-02 15:11:46.733606200 +0500
+ Birth: 2026-03-02 15:11:46.733606200 +0500
+  File: ./13_php_part2.php
+  Size: 255       	Blocks: 1          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 2533274790646969  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:52.548974600 +0500
+Modify: 2026-03-02 15:11:46.733606200 +0500
+Change: 2026-03-02 15:11:46.733606200 +0500
+ Birth: 2026-03-02 15:11:46.733606200 +0500
+  File: ./14_rust_part1.rs
+  Size: 814       	Blocks: 4          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 3940649674200251  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:52.698716200 +0500
+Modify: 2026-03-02 15:11:46.733606200 +0500
+Change: 2026-03-02 15:11:46.733606200 +0500
+ Birth: 2026-03-02 15:11:46.733606200 +0500
+  File: ./14_rust_part2.rs
+  Size: 256       	Blocks: 1          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 1970324837225662  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:52.831728800 +0500
+Modify: 2026-03-02 15:11:46.733606200 +0500
+Change: 2026-03-02 15:11:46.736661800 +0500
+ Birth: 2026-03-02 15:11:46.733606200 +0500
+  File: ./15_scratch_part1.sb3
+  Size: 298       	Blocks: 4          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 9007199254992063  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:52.923670100 +0500
+Modify: 2026-03-02 15:11:46.736661800 +0500
+Change: 2026-03-02 15:11:46.736661800 +0500
+ Birth: 2026-03-02 15:11:46.736661800 +0500
+  File: ./15_scratch_part2.sb3
+  Size: 259       	Blocks: 1          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 6473924464596161  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:53.013980700 +0500
+Modify: 2026-03-02 15:11:46.736661800 +0500
+Change: 2026-03-02 15:11:46.736661800 +0500
+ Birth: 2026-03-02 15:11:46.736661800 +0500
+  File: ./16_go_part1.go
+  Size: 1240      	Blocks: 4          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 8162774324860108  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:53.133553000 +0500
+Modify: 2026-03-02 15:11:46.739563400 +0500
+Change: 2026-03-02 15:11:46.739563400 +0500
+ Birth: 2026-03-02 15:11:46.739563400 +0500
+  File: ./16_go_part2.go
+  Size: 254       	Blocks: 1          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 8444249301570765  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:53.243017500 +0500
+Modify: 2026-03-02 15:11:46.739563400 +0500
+Change: 2026-03-02 15:11:46.739563400 +0500
+ Birth: 2026-03-02 15:11:46.739563400 +0500
+  File: ./17_ada_part1.adb
+  Size: 332       	Blocks: 4          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 14355223812494543  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:53.352014800 +0500
+Modify: 2026-03-02 15:11:46.739563400 +0500
+Change: 2026-03-02 15:11:46.739563400 +0500
+ Birth: 2026-03-02 15:11:46.739563400 +0500
+  File: ./17_ada_part2.ads
+  Size: 198       	Blocks: 1          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 8444249301570771  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:53.478019500 +0500
+Modify: 2026-03-02 15:11:46.739563400 +0500
+Change: 2026-03-02 15:11:46.739563400 +0500
+ Birth: 2026-03-02 15:11:46.739563400 +0500
+  File: ./18_matlab_part1.m
+  Size: 293       	Blocks: 4          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 17732923533022421  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:53.620309900 +0500
+Modify: 2026-03-02 15:11:46.742507000 +0500
+Change: 2026-03-02 15:11:46.742507000 +0500
+ Birth: 2026-03-02 15:11:46.739563400 +0500
+  File: ./18_matlab_part2.m
+  Size: 258       	Blocks: 1          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 9007199254992086  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:53.787968100 +0500
+Modify: 2026-03-02 15:11:46.744757300 +0500
+Change: 2026-03-02 15:11:46.744757300 +0500
+ Birth: 2026-03-02 15:11:46.742507000 +0500
+  File: ./19_assembly_language_part1.asm
+  Size: 304       	Blocks: 4          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 2814749767357667  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:53.918510800 +0500
+Modify: 2026-03-02 15:11:46.745795600 +0500
+Change: 2026-03-02 15:11:46.745795600 +0500
+ Birth: 2026-03-02 15:11:46.744757300 +0500
+  File: ./19_assembly_language_part2.asm
+  Size: 269       	Blocks: 1          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 4785074604332261  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:54.054245800 +0500
+Modify: 2026-03-02 15:11:46.745795600 +0500
+Change: 2026-03-02 15:11:46.745795600 +0500
+ Birth: 2026-03-02 15:11:46.745795600 +0500
+  File: ./20_kotlin_part1.kt
+  Size: 297       	Blocks: 4          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 4503599627621608  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:54.269935800 +0500
+Modify: 2026-03-02 15:11:46.745795600 +0500
+Change: 2026-03-02 15:11:46.747727900 +0500
+ Birth: 2026-03-02 15:11:46.745795600 +0500
+  File: ./20_kotlin_part2.kt
+  Size: 258       	Blocks: 1          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 5066549581042921  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:54.421659300 +0500
+Modify: 2026-03-02 15:11:46.747727900 +0500
+Change: 2026-03-02 15:11:46.747727900 +0500
+ Birth: 2026-03-02 15:11:46.747727900 +0500
+  File: ./21_swift_part1.swift
+  Size: 296       	Blocks: 4          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 2251799813936362  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:54.524490200 +0500
+Modify: 2026-03-02 15:11:46.749473100 +0500
+Change: 2026-03-02 15:11:46.749473100 +0500
+ Birth: 2026-03-02 15:11:46.749473100 +0500
+  File: ./21_swift_part2.swift
+  Size: 257       	Blocks: 1          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 1688849860515051  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:54.608246900 +0500
+Modify: 2026-03-02 15:11:46.749473100 +0500
+Change: 2026-03-02 15:11:46.749473100 +0500
+ Birth: 2026-03-02 15:11:46.749473100 +0500
+  File: ./22_cobol_part1.cbl
+  Size: 292       	Blocks: 4          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 1688849860515052  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:54.715826500 +0500
+Modify: 2026-03-02 15:11:46.749473100 +0500
+Change: 2026-03-02 15:11:46.749473100 +0500
+ Birth: 2026-03-02 15:11:46.749473100 +0500
+  File: ./22_cobol_part2.cbl
+  Size: 257       	Blocks: 1          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 1688849860515053  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:54.807869900 +0500
+Modify: 2026-03-02 15:11:46.749473100 +0500
+Change: 2026-03-02 15:11:46.749473100 +0500
+ Birth: 2026-03-02 15:11:46.749473100 +0500
+  File: ./23_classic_visual_basic_part1.bas
+  Size: 307       	Blocks: 4          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 1688849860515054  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:54.924553600 +0500
+Modify: 2026-03-02 15:11:46.753531200 +0500
+Change: 2026-03-02 15:11:46.753531200 +0500
+ Birth: 2026-03-02 15:11:46.749473100 +0500
+  File: ./23_classic_visual_basic_part2.bas
+  Size: 272       	Blocks: 1          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 1688849860515055  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:55.020597500 +0500
+Modify: 2026-03-02 15:11:46.754034900 +0500
+Change: 2026-03-02 15:11:46.754034900 +0500
+ Birth: 2026-03-02 15:11:46.754034900 +0500
+  File: ./24_prolog_part1.pro
+  Size: 297       	Blocks: 4          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 1407374883804401  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:55.147934100 +0500
+Modify: 2026-03-02 15:11:46.754034900 +0500
+Change: 2026-03-02 15:11:46.754034900 +0500
+ Birth: 2026-03-02 15:11:46.754034900 +0500
+  File: ./24_prolog_part2.pro
+  Size: 258       	Blocks: 1          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 1407374883804402  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:55.268979700 +0500
+Modify: 2026-03-02 15:11:46.754034900 +0500
+Change: 2026-03-02 15:11:46.754034900 +0500
+ Birth: 2026-03-02 15:11:46.754034900 +0500
+  File: ./25_ruby_part1.rb
+  Size: 291       	Blocks: 4          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 1407374883804403  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:55.385406600 +0500
+Modify: 2026-03-02 15:11:46.756079100 +0500
+Change: 2026-03-02 15:11:46.891723200 +0500
+ Birth: 2026-03-02 15:11:46.754034900 +0500
+  File: ./25_ruby_part2.rb
+  Size: 256       	Blocks: 1          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 1407374883804404  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:55.479353800 +0500
+Modify: 2026-03-02 15:11:46.756079100 +0500
+Change: 2026-03-02 15:11:46.891723200 +0500
+ Birth: 2026-03-02 15:11:46.756079100 +0500
+  File: ./26_dart_part1.dart
+  Size: 295       	Blocks: 4          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 1125899907093749  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:55.589844700 +0500
+Modify: 2026-03-02 15:11:46.757368000 +0500
+Change: 2026-03-02 15:11:46.757368000 +0500
+ Birth: 2026-03-02 15:11:46.756079100 +0500
+  File: ./26_dart_part2.dart
+  Size: 256       	Blocks: 1          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 1125899907093750  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:55.703607800 +0500
+Modify: 2026-03-02 15:11:46.757368000 +0500
+Change: 2026-03-02 15:11:46.757368000 +0500
+ Birth: 2026-03-02 15:11:46.757368000 +0500
+  File: ./27_lua_part1.lua
+  Size: 294       	Blocks: 4          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 1125899907093751  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:55.826640400 +0500
+Modify: 2026-03-02 15:11:46.758827600 +0500
+Change: 2026-03-02 15:11:46.758827600 +0500
+ Birth: 2026-03-02 15:11:46.758827600 +0500
+  File: ./27_lua_part2.lua
+  Size: 255       	Blocks: 1          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 1125899907093752  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:55.896634000 +0500
+Modify: 2026-03-02 15:11:46.758827600 +0500
+Change: 2026-03-02 15:11:46.758827600 +0500
+ Birth: 2026-03-02 15:11:46.758827600 +0500
+  File: ./28_sas_part1.sas
+  Size: 290       	Blocks: 4          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 1125899907093753  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:55.964787500 +0500
+Modify: 2026-03-02 15:11:46.760308900 +0500
+Change: 2026-03-02 15:11:46.760308900 +0500
+ Birth: 2026-03-02 15:11:46.758827600 +0500
+  File: ./28_sas_part2.sas
+  Size: 255       	Blocks: 1          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 1125899907093754  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:56.069566200 +0500
+Modify: 2026-03-02 15:11:46.760308900 +0500
+Change: 2026-03-02 15:11:46.760308900 +0500
+ Birth: 2026-03-02 15:11:46.760308900 +0500
+  File: ./29_julia_part1.jl
+  Size: 296       	Blocks: 4          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 1125899907093755  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:56.180395900 +0500
+Modify: 2026-03-02 15:11:46.761633800 +0500
+Change: 2026-03-02 15:11:46.761633800 +0500
+ Birth: 2026-03-02 15:11:46.760308900 +0500
+  File: ./29_julia_part2.jl
+  Size: 257       	Blocks: 1          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 1125899907093756  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:56.318075700 +0500
+Modify: 2026-03-02 15:11:46.761633800 +0500
+Change: 2026-03-02 15:11:46.761633800 +0500
+ Birth: 2026-03-02 15:11:46.761633800 +0500
+  File: ./30_lisp_part1.lisp
+  Size: 291       	Blocks: 4          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 1125899907093757  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:56.438004800 +0500
+Modify: 2026-03-02 15:11:46.762857100 +0500
+Change: 2026-03-02 15:11:46.763362200 +0500
+ Birth: 2026-03-02 15:11:46.762857100 +0500
+  File: ./30_lisp_part2.lisp
+  Size: 256       	Blocks: 1          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 1125899907093758  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:56.528331600 +0500
+Modify: 2026-03-02 15:11:46.763362200 +0500
+Change: 2026-03-02 15:11:46.763362200 +0500
+ Birth: 2026-03-02 15:11:46.763362200 +0500
+  File: ./31_objective_c_part1.m
+  Size: 298       	Blocks: 4          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 1125899907093759  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:56.641683200 +0500
+Modify: 2026-03-02 15:11:46.763362200 +0500
+Change: 2026-03-02 15:11:46.763362200 +0500
+ Birth: 2026-03-02 15:11:46.763362200 +0500
+  File: ./31_objective_c_part2.m
+  Size: 263       	Blocks: 1          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 1125899907093760  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:56.749571700 +0500
+Modify: 2026-03-02 15:11:46.765104300 +0500
+Change: 2026-03-02 15:11:46.765104300 +0500
+ Birth: 2026-03-02 15:11:46.765104300 +0500
+  File: ./32_typescript_part1.ts
+  Size: 750       	Blocks: 4          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 1125899907093761  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:56.860428100 +0500
+Modify: 2026-03-02 15:11:46.765104300 +0500
+Change: 2026-03-02 15:11:46.765104300 +0500
+ Birth: 2026-03-02 15:11:46.765104300 +0500
+  File: ./32_typescript_part2.ts
+  Size: 262       	Blocks: 1          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 1125899907093762  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:56.987609000 +0500
+Modify: 2026-03-02 15:11:46.765104300 +0500
+Change: 2026-03-02 15:11:46.765104300 +0500
+ Birth: 2026-03-02 15:11:46.765104300 +0500
+  File: ./33_pl_sql_part1.pls
+  Size: 297       	Blocks: 4          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 1125899907093763  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:57.137054500 +0500
+Modify: 2026-03-02 15:11:46.765104300 +0500
+Change: 2026-03-02 15:11:46.767457600 +0500
+ Birth: 2026-03-02 15:11:46.765104300 +0500
+  File: ./33_pl_sql_part2.pls
+  Size: 265       	Blocks: 1          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 1125899907093764  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:57.200852900 +0500
+Modify: 2026-03-02 15:11:46.767961300 +0500
+Change: 2026-03-02 15:11:46.767961300 +0500
+ Birth: 2026-03-02 15:11:46.767457600 +0500
+  File: ./34_vbscript_part1.vbs
+  Size: 295       	Blocks: 4          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 1125899907093765  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:57.254662800 +0500
+Modify: 2026-03-02 15:11:46.767961300 +0500
+Change: 2026-03-02 15:11:46.954875600 +0500
+ Birth: 2026-03-02 15:11:46.767961300 +0500
+  File: ./34_vbscript_part2.vbs
+  Size: 260       	Blocks: 1          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 1125899907093766  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:57.319540200 +0500
+Modify: 2026-03-02 15:11:46.767961300 +0500
+Change: 2026-03-02 15:11:46.954875600 +0500
+ Birth: 2026-03-02 15:11:46.767961300 +0500
+  File: ./35_haskell_part1.hs
+  Size: 294       	Blocks: 4          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 1125899907093767  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:57.377042300 +0500
+Modify: 2026-03-02 15:11:46.769945100 +0500
+Change: 2026-03-02 15:11:46.769945100 +0500
+ Birth: 2026-03-02 15:11:46.767961300 +0500
+  File: ./35_haskell_part2.hs
+  Size: 259       	Blocks: 1          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 1125899907093768  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:57.440041600 +0500
+Modify: 2026-03-02 15:11:46.769945100 +0500
+Change: 2026-03-02 15:11:46.769945100 +0500
+ Birth: 2026-03-02 15:11:46.769945100 +0500
+  File: ./36_erlang_part1.erl
+  Size: 293       	Blocks: 4          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 1125899907093769  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:57.562860000 +0500
+Modify: 2026-03-02 15:11:46.771361300 +0500
+Change: 2026-03-02 15:11:46.771361300 +0500
+ Birth: 2026-03-02 15:11:46.769945100 +0500
+  File: ./36_erlang_part2.erl
+  Size: 258       	Blocks: 1          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 1125899907093770  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:57.667811900 +0500
+Modify: 2026-03-02 15:11:46.771361300 +0500
+Change: 2026-03-02 15:11:46.771361300 +0500
+ Birth: 2026-03-02 15:11:46.771361300 +0500
+  File: ./37_ladder_logic_part1.ld
+  Size: 303       	Blocks: 4          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 1125899907093771  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:57.765292300 +0500
+Modify: 2026-03-02 15:11:46.772661300 +0500
+Change: 2026-03-02 15:11:46.772661300 +0500
+ Birth: 2026-03-02 15:11:46.771361300 +0500
+  File: ./37_ladder_logic_part2.ld
+  Size: 264       	Blocks: 1          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 1125899907093772  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:57.830115800 +0500
+Modify: 2026-03-02 15:11:46.772661300 +0500
+Change: 2026-03-02 15:11:46.772661300 +0500
+ Birth: 2026-03-02 15:11:46.772661300 +0500
+  File: ./38_visual_foxpro_part1.prg
+  Size: 306       	Blocks: 4          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 1125899907093773  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:57.944596600 +0500
+Modify: 2026-03-02 15:11:46.773817100 +0500
+Change: 2026-03-02 15:11:46.773817100 +0500
+ Birth: 2026-03-02 15:11:46.772661300 +0500
+  File: ./38_visual_foxpro_part2.prg
+  Size: 267       	Blocks: 1          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 1125899907093774  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:58.057929700 +0500
+Modify: 2026-03-02 15:11:46.773817100 +0500
+Change: 2026-03-02 15:11:46.773817100 +0500
+ Birth: 2026-03-02 15:11:46.773817100 +0500
+  File: ./39_scala_part1.scala
+  Size: 296       	Blocks: 4          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 1125899907093776  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:58.173318300 +0500
+Modify: 2026-03-02 15:11:46.773817100 +0500
+Change: 2026-03-02 15:11:46.773817100 +0500
+ Birth: 2026-03-02 15:11:46.773817100 +0500
+  File: ./39_scala_part2.scala
+  Size: 257       	Blocks: 1          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 1125899907093777  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:58.286180800 +0500
+Modify: 2026-03-02 15:11:46.773817100 +0500
+Change: 2026-03-02 15:11:46.773817100 +0500
+ Birth: 2026-03-02 15:11:46.773817100 +0500
+  File: ./40_labview_part1.vi
+  Size: 298       	Blocks: 4          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 1125899907093778  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:58.382822000 +0500
+Modify: 2026-03-02 15:11:46.773817100 +0500
+Change: 2026-03-02 15:11:46.776443600 +0500
+ Birth: 2026-03-02 15:11:46.773817100 +0500
+  File: ./40_labview_part2.vi
+  Size: 259       	Blocks: 1          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 1125899907093779  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:58.483070400 +0500
+Modify: 2026-03-02 15:11:46.776443600 +0500
+Change: 2026-03-02 15:11:46.776443600 +0500
+ Birth: 2026-03-02 15:11:46.776443600 +0500
+  File: ./41_powershell_part1.ps1
+  Size: 301       	Blocks: 4          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 1125899907093780  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:58.578823700 +0500
+Modify: 2026-03-02 15:11:46.777723500 +0500
+Change: 2026-03-02 15:11:46.960145700 +0500
+ Birth: 2026-03-02 15:11:46.776443600 +0500
+  File: ./41_powershell_part2.ps1
+  Size: 262       	Blocks: 1          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 1125899907093781  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:58.674048800 +0500
+Modify: 2026-03-02 15:11:46.777723500 +0500
+Change: 2026-03-02 15:11:46.960145700 +0500
+ Birth: 2026-03-02 15:11:46.777723500 +0500
+  File: ./42_transact_sql_part1.tsql
+  Size: 303       	Blocks: 4          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 1125899907093782  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:58.772040700 +0500
+Modify: 2026-03-02 15:11:46.777723500 +0500
+Change: 2026-03-02 15:11:46.777723500 +0500
+ Birth: 2026-03-02 15:11:46.777723500 +0500
+  File: ./42_transact_sql_part2.tsql
+  Size: 265       	Blocks: 1          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 1125899907093783  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:58.896133100 +0500
+Modify: 2026-03-02 15:11:46.777723500 +0500
+Change: 2026-03-02 15:11:46.777723500 +0500
+ Birth: 2026-03-02 15:11:46.777723500 +0500
+  File: ./43_x_part1.xpp
+  Size: 294       	Blocks: 4          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 1125899907093785  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:59.006940200 +0500
+Modify: 2026-03-02 15:11:46.777723500 +0500
+Change: 2026-03-02 15:11:46.777723500 +0500
+ Birth: 2026-03-02 15:11:46.777723500 +0500
+  File: ./43_x_part2.xpp
+  Size: 255       	Blocks: 1          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 1125899907093786  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:59.176983300 +0500
+Modify: 2026-03-02 15:11:46.777723500 +0500
+Change: 2026-03-02 15:11:46.777723500 +0500
+ Birth: 2026-03-02 15:11:46.777723500 +0500
+  File: ./44_abap_part1.abap
+  Size: 291       	Blocks: 4          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 1125899907093787  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:59.252493200 +0500
+Modify: 2026-03-02 15:11:46.780955600 +0500
+Change: 2026-03-02 15:11:46.780955600 +0500
+ Birth: 2026-03-02 15:11:46.780955600 +0500
+  File: ./44_abap_part2.abap
+  Size: 256       	Blocks: 1          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 1125899907093788  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:59.345752100 +0500
+Modify: 2026-03-02 15:11:46.780955600 +0500
+Change: 2026-03-02 15:11:46.780955600 +0500
+ Birth: 2026-03-02 15:11:46.780955600 +0500
+  File: ./45_elixir_part1.ex
+  Size: 293       	Blocks: 4          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 1125899907093789  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:59.428082800 +0500
+Modify: 2026-03-02 15:11:46.782960600 +0500
+Change: 2026-03-02 15:11:46.782960600 +0500
+ Birth: 2026-03-02 15:11:46.780955600 +0500
+  File: ./45_elixir_part2.ex
+  Size: 258       	Blocks: 1          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 1125899907093790  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:59.561234900 +0500
+Modify: 2026-03-02 15:11:46.782960600 +0500
+Change: 2026-03-02 15:11:46.782960600 +0500
+ Birth: 2026-03-02 15:11:46.782960600 +0500
+  File: ./46_zig_part1.zig
+  Size: 377       	Blocks: 4          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 1125899907093791  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:59.663829500 +0500
+Modify: 2026-03-02 15:11:46.782960600 +0500
+Change: 2026-03-02 15:11:46.782960600 +0500
+ Birth: 2026-03-02 15:11:46.782960600 +0500
+  File: ./46_zig_part2.zig
+  Size: 255       	Blocks: 1          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 1125899907093792  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:59.734456900 +0500
+Modify: 2026-03-02 15:11:46.782960600 +0500
+Change: 2026-03-02 15:11:46.782960600 +0500
+ Birth: 2026-03-02 15:11:46.782960600 +0500
+  File: ./47_actionscript_part1.as
+  Size: 303       	Blocks: 4          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 1125899907093793  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:59.808239800 +0500
+Modify: 2026-03-02 15:11:46.782960600 +0500
+Change: 2026-03-02 15:11:46.782960600 +0500
+ Birth: 2026-03-02 15:11:46.782960600 +0500
+  File: ./47_actionscript_part2.as
+  Size: 264       	Blocks: 1          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 1125899907093794  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:59.883198400 +0500
+Modify: 2026-03-02 15:11:46.782960600 +0500
+Change: 2026-03-02 15:11:46.782960600 +0500
+ Birth: 2026-03-02 15:11:46.782960600 +0500
+  File: ./48_d_part1.d
+  Size: 292       	Blocks: 1          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 1125899907093795  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:13:59.990382800 +0500
+Modify: 2026-03-02 15:11:46.782960600 +0500
+Change: 2026-03-02 15:11:46.782960600 +0500
+ Birth: 2026-03-02 15:11:46.782960600 +0500
+  File: ./48_d_part2.d
+  Size: 253       	Blocks: 1          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 1125899907093796  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:14:00.093478900 +0500
+Modify: 2026-03-02 15:11:46.782960600 +0500
+Change: 2026-03-02 15:11:46.782960600 +0500
+ Birth: 2026-03-02 15:11:46.782960600 +0500
+  File: ./49_logo_part1.logo
+  Size: 291       	Blocks: 4          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 1125899907093797  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:14:00.185968600 +0500
+Modify: 2026-03-02 15:11:46.782960600 +0500
+Change: 2026-03-02 15:11:46.782960600 +0500
+ Birth: 2026-03-02 15:11:46.782960600 +0500
+  File: ./49_logo_part2.logo
+  Size: 256       	Blocks: 1          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 1125899907093798  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:14:00.247465400 +0500
+Modify: 2026-03-02 15:11:46.782960600 +0500
+Change: 2026-03-02 15:11:46.782960600 +0500
+ Birth: 2026-03-02 15:11:46.782960600 +0500
+  File: ./50_pl_i_part1.pli
+  Size: 295       	Blocks: 4          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 1407374883804455  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:14:00.365677800 +0500
+Modify: 2026-03-02 15:11:46.782960600 +0500
+Change: 2026-03-02 15:11:46.782960600 +0500
+ Birth: 2026-03-02 15:11:46.782960600 +0500
+  File: ./50_pl_i_part2.pli
+  Size: 256       	Blocks: 1          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 1125899907093800  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:14:00.487502400 +0500
+Modify: 2026-03-02 15:11:46.782960600 +0500
+Change: 2026-03-02 15:11:46.782960600 +0500
+ Birth: 2026-03-02 15:11:46.782960600 +0500
+  File: ./baseline_hashes.txt
+  Size: 11738     	Blocks: 12         IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 3659174697489709  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:14:00.592390100 +0500
+Modify: 2026-03-02 15:13:40.944991500 +0500
+Change: 2026-03-02 15:13:40.948327900 +0500
+ Birth: 2026-03-02 15:13:27.646626200 +0500
+  File: ./baseline_sizes.txt
+  Size: 3716      	Blocks: 4          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 8162774324663993  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:14:00.826830800 +0500
+Modify: 2026-03-02 15:14:00.826830800 +0500
+Change: 2026-03-02 15:14:00.826830800 +0500
+ Birth: 2026-03-02 15:13:46.634385700 +0500
+  File: ./baseline_stat.txt
+  Size: 55038     	Blocks: 64         IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 46161896180698774  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:14:18.460484900 +0500
+Modify: 2026-03-02 15:14:18.460484900 +0500
+Change: 2026-03-02 15:14:18.460484900 +0500
+ Birth: 2026-03-02 15:14:04.663416500 +0500
+  File: ./INFO.txt
+  Size: 3471      	Blocks: 4          IO Block: 65536  regular file
+Device: 40cbcbb5h/1087097781d	Inode: 1407374883804457  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 4096/AzureAD+SalmanRiaz)   Gid: ( 4096/ UNKNOWN)
+Access: 2026-03-02 15:14:00.823648100 +0500
+Modify: 2026-03-02 15:11:46.782960600 +0500
+Change: 2026-03-02 15:11:46.782960600 +0500
+ Birth: 2026-03-02 15:11:46.782960600 +0500
