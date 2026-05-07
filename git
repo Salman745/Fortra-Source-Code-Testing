@@ -1,0 +1,15 @@
+<and>
+
+    <!-- Upload operation -->
+    <equal>
+        <evtOperationType />
+        <constOpNetTransferUpload />
+    </equal>
+
+    <!-- Destination domain -->
+    <equal>
+        <evtDestUrlHost />
+        <stringConstant value="github.com" />
+    </equal>
+
+</and>
